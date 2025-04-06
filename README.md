@@ -1,4 +1,4 @@
-![](https://imgur.com/a/HSLAwvm.jpg)
+![me](https://imgur.com/a/HSLAwvm.jpg)
 
 <!--
 **jicobret/jicobret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
